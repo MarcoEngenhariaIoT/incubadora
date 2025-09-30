@@ -89,6 +89,11 @@ O esquema completo do circuito está disponível no arquivo **`esquema.pdf`**, i
 - **Luciano Grassi Kuyven**
 - **André M. Machado Júnior**
 
+## Vídeo no YouTube
+https://youtu.be/7spTsU_MetM?si=_UMo8YmrhWojLtKS
+
 ## Licença
 
 Este projeto é de uso educacional. Sinta-se à vontade para referenciar e adaptar.
+
+
